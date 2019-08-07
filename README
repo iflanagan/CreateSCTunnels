@@ -1,0 +1,22 @@
+
+To run the script run the following:
+
+
+run the following command
+
+1.) chmod 755 createSCTunnels
+2.) download sauceconnect (make sure of the directory where you downloaded it)
+3.) edit the file createSCTunnels
+4.) change the following line from 
+
+MYDIR=<DIRWHEREIDOWNLOADEDSAUCECONNECT>
+
+to:
+
+MYDIR=<directorywhereyoudownloadedsauceconnect>
+
+5.) brew install xidel
+
+6.) to run the script ./createSCTunnels (by itself it will tell you the command line arguments to add)
+
+
